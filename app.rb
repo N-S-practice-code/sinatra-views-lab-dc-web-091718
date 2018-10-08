@@ -8,11 +8,11 @@ class App < Sinatra::Base
 	  
 	end
   
-  get '/hello' do
+  get '/goodbye' do
 	  
 	end
 	
-	get '/hello' do
+	get '/date' do
 	  
 	end
 
